@@ -13,3 +13,16 @@
  *= require_tree .
  *= require_self
  */
+.btn {
+  background-color: aquamarine;
+  text-decoration: none;
+  font-weight: bolder;
+  border-radius: 10px;
+  padding: 10px;
+}
+
+h1 {
+  color:blue;
+  text-decoration: underline;
+  text-shadow: 5px;
+}
